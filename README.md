@@ -5,7 +5,7 @@ Complete Project from collection of Audio Data to Making of an Ad-Recommendation
 <p>The Documentation consist of details about the prototype developed for Clovitek Audio Streaming Device. Please note that the whole project is written in python with the appropriate libraries. The main purpose of this protype is to test whether the Deep Learning can help to optimize the Ad-Experience for Clovitek Customers.
 Getting Started (Detailed Information about Folders and Files)</p>
 The prototype is on two folders: the first one is the protype and the second one is the protype-data. 
-
+<img src="https://github.com/keenborder786/Deep-Ad-Recommendation-Sytem/blob/master/images/folders.png">
 
 The protype folder consist of the Main Library which makes the Protype work, this folder is reusable and is the back-end Library that makes the protype works. While the Prototype Data consist of Different Test Cases as how a User(in case you) can use the back-end Library. Let me further explain about the folders in Protype Data Folder:
 
@@ -56,6 +56,7 @@ What things you need to install the software and how to install them
 1-Anaconda:
 	Before Installing the Libraries, you need to install the Anaconda Python Working Environment. Go to this link: https://www.anaconda.com/distribution/ and then Download the python 3.7 version. After this in window search for: Anaconda Prompt and open the Anaconda Prompt, this will lead you to the following screen:
 	 
+<img src="https://github.com/keenborder786/Deep-Ad-Recommendation-Sytem/blob/master/images/terminal.png">
 Now on this screen type in below commands to install all of the pip packages.
 
 2-You need to install the following Libraries (Latest Versions):
@@ -79,7 +80,7 @@ Now on this screen type in below commands to install all of the pip packages.
  
  -An example
 
-
+<img src="https://github.com/keenborder786/Deep-Ad-Recommendation-Sytem/blob/master/images/tf2.0.png">
 
 3-FFmpeg:
 
@@ -88,29 +89,40 @@ FFmpeg is the leading multimedia framework to decode, encode, transcode, mux, de
 1-You will get a zip file  
 
 Unzip it and then you will have following folder:
+<img src="https://github.com/keenborder786/Deep-Ad-Recommendation-Sytem/blob/master/images/zip(1).png">
  
 Rename the file to ffmpeg and copy the folder to the root directory of C drive. 
-2- -Click on properties
 
+2- -Click on properties
+<img src="https://github.com/keenborder786/Deep-Ad-Recommendation-Sytem/blob/master/images/properties.png">
 
 3- -In Properties click Advanced System Settings
-
+<img src="https://github.com/keenborder786/Deep-Ad-Recommendation-Sytem/blob/master/images/properties(2).png">
 
 4- -Click Environment Variables
+<img src="https://github.com/keenborder786/Deep-Ad-Recommendation-Sytem/blob/master/images/properties(3).png">
 
 5- -Click Path
+<img src="https://github.com/keenborder786/Deep-Ad-Recommendation-Sytem/blob/master/images/properties(4).png">
 
 6- -click New
+<img src="https://github.com/keenborder786/Deep-Ad-Recommendation-Sytem/blob/master/images/properties(5).png">
 
 7-Type in C:\ffmpeg\bin and press OK
+
 
 8-Reboot your Machine
 
 Running the tests
 
-Explain how to run the automated tests for this system
+Explanation on  how to run the automated tests for this system
 	Now you have all the Dependencies installed for protype, now go to user-test-case.py. There are detailed comments for each of the function and see how to interact with my Library. As mentioned before User-Test-Case.py is just for your help and guidance therefore shows one way to interact with my Library.
+	
+Want to Understand my Algorithm:
+	[Read My Paper on this Algorithm]-(https://github.com/keenborder786/Deep-Ad-Recommendation-Sytem/tree/master/Prototype-Data/Proposed-Model)
+    
 
+The Project is in Progress!!!!
 Authors
 •	Mohammad Mohtashim Khan  
 License
