@@ -116,7 +116,7 @@ Rename the file to ffmpeg and copy the folder to the root directory of C drive.
 Running the tests
 
 Explanation on  how to run the automated tests for this system
-	Now you have all the Dependencies installed for protype, now go to user-test-case.py. There are detailed comments for each of the function and see how to interact with my Library. As mentioned before User-Test-Case.py is just for your help and guidance therefore shows one way to interact with my Library.
+	Now you have all the Dependencies installed for protype, now go to user-test-case.py. There are detailed comments for each of the function and see how to interact with my Library. As mentioned before User-Test-Case.py is just for your help and guidance therefore shows one way to interact with my Library.-(https://github.com/keenborder786/Deep-Ad-Recommendation-Sytem/blob/master/Prototype-Data/test/User-Test-Cases.py)
 	
 Want to Understand my Algorithm:
 	[Read My Paper on this Algorithm]-(https://github.com/keenborder786/Deep-Ad-Recommendation-Sytem/tree/master/Prototype-Data/Proposed-Model)
